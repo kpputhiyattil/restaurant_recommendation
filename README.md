@@ -1,4 +1,4 @@
-# restaurant_recommendation
+# Restaurant Recommendation Assist-AI
 Restaurant Recommendation based on Generative AI
 
 1. Project Goals:
